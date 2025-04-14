@@ -18,10 +18,6 @@ Implement mini-GPT4-like features to enable multimodal dialogue (text + images),
 
 Improve capabilities for distributed training and reinforce RLHF (Reinforcement Learning with Human Feedback) features.
 
-Seq2Seq Version – Execution Steps
-You can use the Xiaohuangji dataset. Download it here:
-https://github.com/zhaoyingjun/chatbot/blob/master/chineseChatbotWeb-tf2.0/seq2seqChatbot/train_data/xiaohuangji50w_nofenci.conv
-
 Steps:
 
 After downloading the code and dataset, place the corpus file into the train_data directory. Hyperparameters can be configured in config/seq2seq.ini.
